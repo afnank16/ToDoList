@@ -25,5 +25,5 @@ npm run dev
 
 ## Screenshots
 
-> Add a screenshot here after running the app
+> ![alt text](Screenshot_7-5-2026_215933_localhost.jpeg)
 
